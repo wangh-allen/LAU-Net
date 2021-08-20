@@ -45,7 +45,7 @@ link: https://drive.google.com/drive/folders/15FxJOB0hWR3WZTg9CNxKKjGciQF8ZwSK?u
 
 ## Citation
 
-If you use any part of this code in your research, please cite our paper:
+If you find our paper or code useful for your research, please cite:
 
 ```
 @InProceedings{Deng_2021_CVPR,
