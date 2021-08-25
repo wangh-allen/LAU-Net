@@ -23,21 +23,12 @@ python main.py --test_only --datastest=sun --pre_train='./results/model/model_be
 ```
 
 ## ODI-SR and testing datasets
-Pan Baidu:
-
-link: https://pan.baidu.com/s/1p9a3i7a4Wp_X8yk1dFtcfA 
-code: s5c2
 
 Google Drive:
 
 link: https://drive.google.com/drive/folders/1w7m1r-yCbbZ7_xMGzb6IBplPe4c89rH9?usp=sharing
 
 ## Pretrained model
-Pan Baidu:
-
-link: https://pan.baidu.com/s/1ItTsOruCEG9GWHM2Z80czw 
-code: d2w1
-
 
 Google Drive:
 
