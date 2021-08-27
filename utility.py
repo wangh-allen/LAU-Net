@@ -79,7 +79,7 @@ def make_scheduler(opt, my_optimizer, epoch):
 
     return scheduler
 
-def genERP(i,j,N):
+def genERP(j,N):
     val = math.pi/N
     w = math.cos((j - (N/2) + 0.5) * val)
     return w
@@ -90,10 +90,10 @@ def compute_map_ws(img):
     """
     equ = np.zeros((img.shape[0], img.shape[1], img.shape[2]))
 
-    for j in range(0,equ.shape[0]):
-        for k in range(0,equ.shape[1]):
-            for i in range(0,equ.shape[2]):
-                equ[j, k, i] = genERP(i,j,equ.shape[0])
+    for i in range(0,equ.shape[0]):
+        for j in range(0,equ.shape[1]):
+            for k in range(0,equ.shape[2]):
+                equ[i, j, k] = genERP(j,equ.shape[1])
     return equ
 
 def getGlobalWSMSEValue(mx,my):
