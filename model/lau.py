@@ -165,4 +165,4 @@ class LAUNet(nn.Module):
         g4 = self.merge([g1up, g2up, g3], [crop_n * 8, remain * 8, crop_s * 8])
         results = [g1up, g2up, g3, g4]
 
-        return results, [crop_n, remain, crop_s]
+        return results
