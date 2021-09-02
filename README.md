@@ -9,7 +9,7 @@ Python=3.7, PyTorch=1.7.0, numpy, skimage, cv2, matplotlib, tqdm
 ```
 
 ## Test scripts
-Put downloaded dataset in ./dataset.
+Put dataset in ./dataset.
 
 Put pre-trained model in ./results/model.
 
@@ -17,10 +17,7 @@ Run the main.py:
 ```bash
 python main.py --test_only --datastest=test --pre_train='./results/model/model_best.pt'
 ```
-or
-```bash
-python main.py --test_only --datastest=sun --pre_train='./results/model/model_best.pt'
-```
+
 
 ## ODI-SR and testing datasets
 
