@@ -19,7 +19,7 @@ python main.py --test_only --datastest=test --pre_train='./results/model/model_b
 ```
 
 
-## ODI-SR and testing datasets
+## ODI-SR dataset
 
 Google Drive:
 
