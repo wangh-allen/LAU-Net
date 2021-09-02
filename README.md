@@ -2,6 +2,8 @@
 
 Pytorch implementation for "LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution".
 
+We are now fixing some bugs, please download all the resource after the reconstruction. We will finish soon.
+
 
 ## Dependencies
 ```
