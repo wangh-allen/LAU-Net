@@ -21,15 +21,11 @@ python main.py --test_only --datastest=test --pre_train='./results/model/model_b
 
 ## ODI-SR dataset
 
-Google Drive:
-
-link: https://drive.google.com/drive/folders/1w7m1r-yCbbZ7_xMGzb6IBplPe4c89rH9?usp=sharing
+Please waiting for update.
 
 ## Pretrained model
 
-Google Drive:
-
-link: https://drive.google.com/drive/folders/15FxJOB0hWR3WZTg9CNxKKjGciQF8ZwSK?usp=sharing
+Please waiting for update.
 
 ## Citation
 
