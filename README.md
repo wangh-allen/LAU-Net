@@ -2,8 +2,6 @@
 
 Pytorch implementation for "LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution".
 
-**We are now fixing some bugs, please download all the resource after the reconstruction. We will finish soon.**
-
 
 ## Dependencies
 ```
@@ -21,13 +19,17 @@ python main.py --test_only --datastest=test --pre_train='./results/model/model_b
 ```
 
 
-## ODI-SR dataset
+## ODI-SR and testing datasets
 
-Please waiting for update.
+Google Drive:
+
+link: https://drive.google.com/drive/folders/1w7m1r-yCbbZ7_xMGzb6IBplPe4c89rH9?usp=sharing
 
 ## Pretrained model
 
-Please waiting for update.
+Google Drive:
+
+link: https://drive.google.com/drive/folders/15FxJOB0hWR3WZTg9CNxKKjGciQF8ZwSK?usp=sharing
 
 ## Citation
 
@@ -43,4 +45,9 @@ If you find our paper or code useful for your research, please cite:
     pages     = {9189-9198}
 }
 ```
+
+## Contact
+
+If you have any problem, please contact with me through email. I will reply soon.
+
 My email: wang_hao@buaa.edu.cn
